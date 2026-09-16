@@ -1,0 +1,5 @@
+# Add this Manual card to any dashboard after selecting stops.
+type: custom:gmp-transport-departures-card
+title: Local area departures
+# Optional: uncomment to filter to a group created in the picker.
+# group: Home

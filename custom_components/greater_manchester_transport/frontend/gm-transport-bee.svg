@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Greater Manchester Transport bee</title>
+  <path fill="#ffc400" d="M64 5 115 34v60l-51 29L13 94V34z"/>
+  <path fill="#263238" d="m64 12 45 26v52l-45 26-45-26V38z"/>
+  <path fill="#fff" opacity=".93" d="M55 50c-18-19-34-17-36-9-2 9 13 25 34 23m20-14c18-19 34-17 36-9 2 9-13 25-34 23"/>
+  <ellipse cx="64" cy="72" rx="19" ry="26" fill="#ffc400"/>
+  <path d="M48 64h32M45 75h38M48 86h32" stroke="#263238" stroke-width="7"/>
+  <circle cx="55" cy="68" r="3" fill="#fff"/><circle cx="73" cy="68" r="3" fill="#fff"/>
+  <path d="M52 96c7 7 17 7 24 0" fill="none" stroke="#263238" stroke-width="5" stroke-linecap="round"/>
+  <path d="M55 45c0-9 5-14 9-17 4 3 9 8 9 17" fill="none" stroke="#ffc400" stroke-width="5" stroke-linecap="round"/>
+</svg>

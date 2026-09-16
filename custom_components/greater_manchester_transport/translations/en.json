@@ -1,0 +1,27 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Greater Manchester Transport",
+        "description": "Configure optional live vehicle data.",
+        "data": {
+          "bods_api_key": "BODS API key (optional)"
+        },
+        "data_description": {
+          "bods_api_key": "Leave blank for TfGM-only schedules and live boards."
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Transport options",
+        "description": "Leave the BODS key blank and save to remove it.",
+        "data": {
+          "bods_api_key": "BODS API key (optional)"
+        }
+      }
+    }
+  }
+}

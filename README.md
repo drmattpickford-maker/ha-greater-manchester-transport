@@ -5,8 +5,6 @@ and Metrolink departures. Preview version **0.3.0**.
 
 Choose stops on a map, monitor their sensors, and display departures on your
 own dashboard. This project is not affiliated with TfGM or the Bee Network.
-It is a standalone integration; no rotary telephone or Raspberry Pi is needed.
-
 ## Features
 
 - Map picker starts at Home Assistant's home location when it is in Greater

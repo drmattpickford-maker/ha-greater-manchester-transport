@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1800NC41321",
+    "name": "Perrymead (Stop B)",
+    "mode": "bus",
+    "direction": "towards Bury",
+    "latitude": 53.5374,
+    "longitude": -2.274329
+  },
+  {
+    "id": "1800NC41471",
+    "name": "Heywood Road (Stop A)",
+    "mode": "bus",
+    "direction": "towards Manchester",
+    "latitude": 53.53735,
+    "longitude": -2.27572
+  },
+  {
+    "id": "1800NC41711",
+    "name": "Heywood Road (Stop D)",
+    "mode": "bus",
+    "direction": "towards Bury",
+    "latitude": 53.53675,
+    "longitude": -2.27333
+  },
+  {
+    "id": "1800NC42151",
+    "name": "Butterstile Lane (near)",
+    "mode": "bus",
+    "direction": "towards Bury",
+    "latitude": 53.52484,
+    "longitude": -2.277763
+  },
+  {
+    "id": "1800NC42381",
+    "name": "Butterstile Lane (opposite)",
+    "mode": "bus",
+    "direction": "towards Manchester",
+    "latitude": 53.52531,
+    "longitude": -2.277917
+  },
+  {
+    "id": "9400ZZMAPWC",
+    "name": "Prestwich Metrolink",
+    "mode": "tram",
+    "direction": "Bury Line",
+    "latitude": 53.533357,
+    "longitude": -2.281983
+  }
+]

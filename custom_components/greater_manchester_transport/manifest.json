@@ -1,0 +1,11 @@
+{
+  "domain": "greater_manchester_transport",
+  "name": "Greater Manchester Transport",
+  "codeowners": ["@drmattpickford-maker"],
+  "config_flow": true,
+  "documentation": "https://github.com/drmattpickford-maker/ha-greater-manchester-transport",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/drmattpickford-maker/ha-greater-manchester-transport/issues",
+  "requirements": [],
+  "version": "0.3.0"
+}
